@@ -27,7 +27,7 @@ favicon: /favicon.ico
 menu:
   home: /
   categories: /categories
-  about: /about
+  #about: /about
   archives: /archives
   tags: /tags
   #commonweal: /404.html
