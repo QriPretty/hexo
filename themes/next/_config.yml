@@ -330,8 +330,8 @@ baidu_push: false
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
 #! ---------------------------------------------------------------
 
-# Motion
-use_motion: true
+# Motion动画
+use_motion: false
 
 # Fancybox
 fancybox: true
